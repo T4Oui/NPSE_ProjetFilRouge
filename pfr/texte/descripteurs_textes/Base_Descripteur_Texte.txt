@@ -1,0 +1,849 @@
+
+1
+1 thomas 3
+1 suicide 3
+1 son 4
+1 protéines 3
+1 pousser 3
+1 parasite 3
+1 nématomorphes 3
+1 hôte 4
+1 frédéric 3
+1 comportement 4
+219
+259
+2
+2 question 3
+2 mots 3
+2 mot 4
+2 hommes 3
+2 femmes 3
+2 fait 3
+2 expressions 3
+2 étude 5
+2 beau 3
+175
+226
+3
+3 williams 4
+3 victoire 3
+3 toyota 6
+3 sur 12
+3 son 7
+3 seul 3
+3 septembre 3
+3 schumacher 4
+3 saison 7
+3 rنikkِnen 7
+3 renault 11
+3 prix 6
+3 position 3
+3 points 9
+3 podium 5
+3 place 4
+3 pilotes 7
+3 pilote 4
+3 pablo 6
+3 monza 5
+3 montoya 6
+3 monde 7
+3 moins 4
+3 min 6
+3 mérite 3
+3 mercedes 5
+3 même 4
+3 mclaren 12
+3 mais 3
+3 leader 3
+3 kimi 7
+3 juan 6
+3 italie 4
+3 ita 4
+3 issue 3
+3 grand 7
+3 giancarlo 5
+3 gbr 3
+3 fisichella 5
+3 fin 5
+3 ferrari 5
+3 fernando 6
+3 épreuves 4
+3 dont 6
+3 deux 4
+3 dernières 3
+3 course 6
+3 constructeurs 3
+3 colombien 3
+3 col 3
+3 circuit 4
+3 championnat 6
+3 bré 3
+3 bar 3
+3 alonso 6
+3 all 5
+375
+657
+4
+4 visa 6
+4 sur 9
+4 son 4
+4 septembre 3
+4 reportage 3
+4 prix 4
+4 festival 4
+4 comme 3
+157
+208
+5
+5 the 8
+5 sur 3
+5 sufjan 5
+5 stevens 5
+5 son 3
+5 rock 3
+5 oeuvre 3
+5 illinoise 3
+5 illinois 4
+5 feel 4
+5 disque 4
+5 comme 3
+5 come 3
+5 album 3
+309
+378
+6
+15
+20
+7
+7 trois 3
+7 sur 3
+7 rodrigues 3
+7 quand 3
+7 portugal 3
+7 portugais 3
+7 ouvert 3
+7 lisbonne 3
+7 ile 3
+7 france 3
+7 festival 3
+7 femmes 3
+7 fado 28
+7 comme 3
+7 carmo 6
+7 carlos 5
+7 camané 3
+7 années 3
+7 amalia 5
+7 alfredo 3
+372
+481
+8
+8 violence 4
+8 terre 3
+8 tempel 8
+8 sur 12
+8 sonde 6
+8 selon 3
+8 poussière 3
+8 pourrait 3
+8 particules 3
+8 mission 5
+8 lors 4
+8 loin 3
+8 juillet 3
+8 instruments 3
+8 impacteur 3
+8 impact 8
+8 hearn 3
+8 état 3
+8 était 3
+8 espace 4
+8 deep 5
+8 comètes 4
+8 comète 11
+8 collision 4
+8 boulet 3
+440
+569
+9
+9 sur 5
+9 équipe 3
+9 cricket 3
+9 angleterre 5
+214
+242
+10
+10 vols 4
+10 sur 5
+10 spatiale 3
+10 spatial 4
+10 son 3
+10 peut 3
+10 partenaires 3
+10 navette 5
+10 nasa 6
+10 michoud 3
+10 même 4
+10 mars 4
+10 mais 3
+10 katrina 4
+10 iss 3
+10 fin 4
+10 était 3
+10 discovery 3
+10 cyclone 3
+10 centre 4
+10 américains 3
+301
+399
+11
+11 wimbledon 3
+11 victoire 4
+11 troisième 3
+11 trois 3
+11 tout 3
+11 tournois 3
+11 tournoi 8
+11 sur 7
+11 suisse 3
+11 son 12
+11 sets 3
+11 set 4
+11 service 5
+11 series 3
+11 semble 3
+11 roland 4
+11 roger 10
+11 remporter 4
+11 première 3
+11 premier 5
+11 pendant 3
+11 open 6
+11 mondial 5
+11 match 6
+11 mary 3
+11 manche 4
+11 mais 4
+11 lui 9
+11 lors 3
+11 kim 4
+11 joueur 4
+11 jeu 4
+11 grand 8
+11 garros 4
+11 gagné 3
+11 finales 4
+11 finale 6
+11 federer 11
+11 face 5
+11 deuxième 3
+11 deux 5
+11 début 4
+11 clijsters 4
+11 chelem 8
+11 carrière 3
+11 ans 6
+11 année 4
+11 andre 8
+11 américain 6
+11 agassi 10
+333
+571
+12
+12 titres 6
+12 tel 3
+12 sur 5
+12 son 9
+12 sevestre 10
+12 sauramps 6
+12 romans 3
+12 rentrée 7
+12 propose 3
+12 pdg 3
+12 nouveaux 3
+12 montpellier 5
+12 marie 11
+12 mais 3
+12 livre 5
+12 littérature 4
+12 librairie 10
+12 libraire 3
+12 jeune 3
+12 jean 10
+12 homme 4
+12 fait 3
+12 coeur 3
+12 avons 4
+12 automne 3
+12 ans 3
+431
+588
+13
+13 weber 3
+13 toujours 3
+13 oberon 7
+13 musique 3
+13 john 3
+13 gardiner 3
+13 eliot 3
+13 direction 3
+194
+248
+14
+14 tamoule 5
+14 susheela 10
+14 sur 4
+14 sam 4
+14 raman 10
+14 musique 3
+14 musicale 3
+14 music 5
+14 mills 6
+14 for 5
+14 exil 3
+14 culture 5
+14 crocodiles 5
+14 contradiction 3
+14 chanteuse 4
+14 chanson 4
+14 carnatique 4
+272
+362
+15
+15 tout 3
+15 terrain 3
+15 sur 6
+15 stade 3
+15 serait 3
+15 real 4
+15 peut 3
+15 notre 3
+15 michael 5
+15 mais 7
+15 madrid 4
+15 lyon 4
+15 joueurs 3
+15 image 4
+15 grand 4
+15 football 5
+15 faire 3
+15 essien 4
+15 équipe 3
+15 dimension 3
+15 communication 5
+15 club 9
+15 atteindre 3
+292
+401
+16
+16 stohr 5
+16 risque 3
+16 responsable 3
+16 plans 4
+16 pays 8
+16 pandémie 4
+16 oms 4
+16 grippe 7
+16 docteur 5
+16 aviaire 3
+184
+242
+17
+17 trois 3
+17 tonnes 4
+17 tonne 4
+17 technologies 3
+17 sur 6
+17 stockage 5
+17 représente 3
+17 procédés 3
+17 pétrole 3
+17 milliards 4
+17 même 4
+17 mais 5
+17 indique 3
+17 ifp 3
+17 géologiques 4
+17 gaz 6
+17 envisagés 3
+17 énergie 3
+17 encore 3
+17 émissions 3
+17 effet 4
+17 devrait 4
+17 coût 4
+17 comme 3
+17 climatique 3
+17 climat 3
+17 charbon 4
+17 capture 6
+391
+520
+18
+18 trois 3
+18 tonnes 4
+18 tonne 4
+18 technologies 3
+18 sur 6
+18 stockage 5
+18 représente 3
+18 procédés 3
+18 pétrole 3
+18 milliards 4
+18 même 4
+18 mais 5
+18 indique 3
+18 ifp 3
+18 géologiques 4
+18 gaz 6
+18 envisagés 3
+18 énergie 3
+18 encore 3
+18 émissions 3
+18 effet 4
+18 devrait 4
+18 coût 4
+18 comme 3
+18 climatique 3
+18 climat 3
+18 charbon 4
+18 capture 6
+391
+520
+19
+19 wise 13
+19 west 5
+19 welles 4
+19 sur 3
+19 succès 7
+19 story 5
+19 son 11
+19 side 5
+19 septembre 3
+19 science 3
+19 scène 4
+19 ryan 4
+19 robert 15
+19 rko 4
+19 réalisateur 4
+19 né 3
+19 musicale 3
+19 monteur 3
+19 même 3
+19 mélodie 3
+19 lui 6
+19 julie 3
+19 films 4
+19 film 14
+19 fiction 3
+19 deux 4
+19 dernier 3
+19 comme 3
+19 comédie 3
+19 bonheur 3
+19 ans 4
+343
+519
+20
+20 united 3
+20 turin 4
+20 thoune 3
+20 stade 4
+20 secondes 3
+20 puel 4
+20 pourtant 3
+20 mercredi 4
+20 match 3
+20 manchester 3
+20 mais 4
+20 lisbonne 3
+20 lille 6
+20 ligue 4
+20 juventus 4
+20 groupe 7
+20 fait 3
+20 face 3
+20 équipe 4
+20 claude 4
+20 choses 3
+20 champions 3
+20 buts 5
+20 bruges 3
+20 benfica 4
+20 avons 3
+20 arsenal 4
+285
+402
+21
+21 veut 3
+21 sur 3
+21 sport 3
+21 six 3
+21 sélectionneur 4
+21 rugby 3
+21 quand 3
+21 notre 3
+21 nba 3
+21 message 3
+21 médias 3
+21 joueurs 5
+21 france 8
+21 français 3
+21 faute 3
+21 fait 6
+21 équipe 9
+21 dire 3
+21 depuis 3
+21 championnat 4
+21 basket 9
+21 avons 3
+21 ans 3
+284
+400
+22
+22 quasar 7
+22 peut 3
+22 millions 3
+22 matière 3
+22 galaxie 5
+22 comme 9
+22 centre 3
+22 astronomes 4
+223
+284
+23
+23 vont 3
+23 vers 3
+23 tout 4
+23 terre 8
+23 surface 5
+23 sur 15
+23 spatiale 4
+23 sonde 9
+23 son 7
+23 robot 4
+23 ramener 3
+23 projectile 3
+23 plusieurs 3
+23 peut 3
+23 patrick 3
+23 particules 3
+23 mission 6
+23 michel 4
+23 matière 3
+23 mais 3
+23 lui 7
+23 kilomètres 4
+23 juillet 3
+23 jaxa 3
+23 japonais 5
+23 itokawa 7
+23 impact 3
+23 hayabusa 6
+23 fois 3
+23 fait 3
+23 exploration 4
+23 était 3
+23 entre 3
+23 encore 3
+23 échantillons 5
+23 dont 3
+23 doit 3
+23 deux 4
+23 depuis 3
+23 déjà 3
+23 corps 3
+23 comme 3
+23 comètes 3
+23 comète 4
+23 collision 3
+23 autour 3
+23 astéroïde 5
+23 arracher 3
+23 américaine 3
+439
+641
+24
+43
+48
+25
+25 vincennes 3
+25 sur 5
+25 son 4
+25 sao 7
+25 paulo 7
+25 musique 3
+25 ivaldo 4
+25 indienne 3
+25 enfants 3
+25 dança 3
+25 comunidade 3
+25 chorégraphe 3
+25 cartoucherie 4
+25 brésilien 3
+25 bois 3
+25 bertazzo 4
+306
+386
+26
+26 volontaires 3
+26 toujours 4
+26 temps 3
+26 sur 5
+26 son 6
+26 sébastien 3
+26 quand 3
+26 peu 3
+26 père 4
+26 pendant 3
+26 ogm 7
+26 nonette 3
+26 michel 3
+26 même 6
+26 malgré 3
+26 mais 7
+26 jean 3
+26 gens 3
+26 faucheurs 4
+26 fait 5
+26 exploitation 5
+26 études 3
+26 étais 5
+26 deux 3
+26 dessus 3
+26 début 5
+26 comme 3
+26 chantal 4
+26 champs 4
+26 champ 3
+26 agriculteurs 5
+26 agricole 5
+453
+595
+27
+27 virus 12
+27 vaccins 4
+27 vaccin 7
+27 sur 5
+27 sanofi 5
+27 sanitaires 3
+27 responsables 3
+27 recherche 4
+27 production 4
+27 premier 3
+27 plusieurs 4
+27 pays 3
+27 pasteur 4
+27 passé 3
+27 pandémie 5
+27 oms 6
+27 millions 5
+27 malte 4
+27 lancé 3
+27 homme 3
+27 grippe 5
+27 firmes 4
+27 essai 3
+27 doses 4
+27 docteur 3
+27 contre 9
+27 contrat 3
+27 conférence 3
+27 aviaire 4
+373
+537
+28
+28 tout 3
+28 télévision 3
+28 sur 8
+28 supporteurs 4
+28 stades 6
+28 son 3
+28 septembre 3
+28 selon 4
+28 saison 12
+28 question 3
+28 prix 7
+28 premier 4
+28 peu 3
+28 moins 4
+28 même 4
+28 matches 7
+28 match 4
+28 lors 3
+28 league 5
+28 jeu 5
+28 grands 3
+28 fréquentation 5
+28 france 3
+28 football 12
+28 équipe 3
+28 entre 5
+28 débat 3
+28 comme 3
+28 clubs 5
+28 chelsea 3
+28 championnat 4
+28 britannique 6
+28 arsenal 3
+326
+487
+29
+29 rigaudeau 3
+29 réussi 3
+29 quart 3
+29 points 6
+29 match 3
+29 mais 3
+29 lituaniens 3
+29 lituanie 4
+29 france 4
+29 français 3
+29 finale 4
+29 demi 4
+29 défense 3
+29 bleus 3
+29 basket 4
+29 ball 3
+173
+237
+30
+30 victoire 3
+30 troisième 3
+30 tête 5
+30 son 5
+30 points 3
+30 place 3
+30 mais 6
+30 lyon 3
+30 lors 3
+30 journée 4
+30 imposé 3
+30 grégory 3
+30 était 3
+30 entraîneur 4
+30 coupet 3
+30 but 3
+223
+283
+31
+31 zaha 3
+31 voix 3
+31 sur 3
+31 son 5
+31 septembre 3
+31 sanaa 4
+31 région 8
+31 projet 4
+31 président 4
+31 nord 3
+31 musée 4
+31 mais 3
+31 louvre 9
+31 lens 10
+31 japonais 4
+31 implantation 3
+31 hadid 3
+31 guy 3
+31 établissement 3
+31 entre 3
+31 également 3
+31 dont 4
+31 deux 3
+31 delcourt 3
+31 comme 3
+31 calais 3
+31 architecture 3
+358
+481
+32
+32 trois 6
+32 toulousain 3
+32 sur 3
+32 stade 25
+32 son 4
+32 simonin 4
+32 septembre 4
+32 selon 3
+32 saint 10
+32 rugby 8
+32 résidant 5
+32 rencontres 3
+32 princes 3
+32 premier 3
+32 politique 4
+32 places 6
+32 personnes 4
+32 pascal 3
+32 paris 5
+32 parc 3
+32 monde 4
+32 max 4
+32 matches 5
+32 match 5
+32 mardi 3
+32 mais 5
+32 lille 14
+32 ligue 7
+32 guazzini 4
+32 germain 3
+32 france 16
+32 français 8
+32 football 5
+32 enceinte 5
+32 dirigeants 3
+32 depuis 5
+32 denis 7
+32 coupe 3
+32 consortium 5
+32 clubs 5
+32 club 8
+32 champions 6
+32 championnat 4
+32 campagne 3
+370
+617
+33
+33 titre 4
+33 sur 7
+33 son 5
+33 slater 5
+33 septième 5
+33 sacre 3
+33 première 4
+33 peut 3
+33 monde 3
+33 lui 6
+33 kelly 5
+33 hossegor 5
+33 était 6
+33 ans 4
+211
+305
+34
+34 tous 4
+34 tournée 4
+34 théâtre 3
+34 sur 4
+34 sud 6
+34 suckers 3
+34 spectacle 3
+34 sida 6
+34 robyn 6
+34 pièce 4
+34 paris 3
+34 pantin 3
+34 our 3
+34 orlin 5
+34 must 3
+34 ile 3
+34 ici 4
+34 france 3
+34 eat 3
+34 danseurs 4
+34 danse 4
+34 ans 5
+34 afrique 3
+34 africains 3
+280
+380

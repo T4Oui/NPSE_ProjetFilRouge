@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="700.0" prefWidth="900.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.SceneHistoriqueController">
+   <children>
+      <VBox layoutX="-5.0" layoutY="-2.0" prefHeight="706.0" prefWidth="906.0">
+         <children>
+            <Pane prefHeight="200.0" prefWidth="200.0">
+               <children>
+                  <Label layoutX="270.0" layoutY="27.0" prefHeight="92.0" prefWidth="378.0" text="Historique" textFill="#018037">
+                     <font>
+                        <Font size="66.0" />
+                     </font>
+                  </Label>
+                  <Button fx:id="buttonRetourner" layoutX="787.0" mnemonicParsing="false" onAction="#clickButtonRetourner" style="-fx-background-color: transparent;">
+                     <graphic>
+                        <ImageView fitHeight="75.0" fitWidth="150.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../../data/retourner.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </Button>
+                  <Button fx:id="buttonAdmin" mnemonicParsing="false" onAction="#clickButtonAdmin" style="-fx-background-color: transparent;">
+                     <graphic>
+                        <ImageView fitHeight="60.0" fitWidth="61.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../../data/admin.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </Button>
+               </children></Pane>
+            <ScrollPane fitToWidth="true" prefHeight="638.0" prefWidth="906.0" vbarPolicy="ALWAYS">
+               <content>
+                <AnchorPane fx:id="PaneHistorique" minHeight="0.0" minWidth="0.0" prefHeight="693.0" prefWidth="890.0">
+                     <children>
+                        <VBox fx:id="resultatHistorique" prefHeight="686.0" prefWidth="900.0" />
+                     </children></AnchorPane>
+               </content>
+            </ScrollPane>
+         </children>
+      </VBox>
+   </children>
+</AnchorPane>

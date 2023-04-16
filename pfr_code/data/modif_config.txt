@@ -1,0 +1,6 @@
+
+2 NbOccurTXT
+2 NbitIM
+1024 nbrEchantillon
+20 tailleINtervalle
+1 modeREcherche

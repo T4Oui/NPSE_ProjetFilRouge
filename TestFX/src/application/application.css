@@ -1,0 +1,6 @@
+.root {
+    -fx-background-image: url('NPSE_opaque.png');
+    -fx-background-size: 700px 650px;
+    -fx-background-position: center center;
+    -fx-background-repeat: no-repeat;
+}

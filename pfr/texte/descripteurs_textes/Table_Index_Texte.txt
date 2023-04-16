@@ -1,0 +1,1765 @@
+
+tous
+1
+34 4
+ici
+1
+34 4
+théâtre
+1
+34 3
+suckers
+1
+34 3
+our
+1
+34 3
+eat
+1
+34 3
+must
+1
+34 3
+spectacle
+1
+34 3
+afrique
+1
+34 3
+tournée
+1
+34 4
+sida
+1
+34 6
+pièce
+1
+34 4
+pantin
+1
+34 3
+africains
+1
+34 3
+sud
+1
+34 6
+danseurs
+1
+34 4
+orlin
+1
+34 5
+robyn
+1
+34 6
+danse
+1
+34 4
+titre
+1
+33 4
+sacre
+1
+33 3
+septième
+1
+33 5
+slater
+1
+33 5
+kelly
+1
+33 5
+hossegor
+1
+33 5
+germain
+1
+32 3
+princes
+1
+32 3
+parc
+1
+32 3
+guazzini
+1
+32 4
+max
+1
+32 4
+personnes
+1
+32 4
+simonin
+1
+32 4
+pascal
+1
+32 3
+places
+1
+32 6
+consortium
+1
+32 5
+coupe
+1
+32 3
+résidant
+1
+32 5
+paris
+2
+34 3
+32 5
+campagne
+1
+32 3
+dirigeants
+1
+32 3
+politique
+1
+32 4
+rencontres
+1
+32 3
+toulousain
+1
+32 3
+mardi
+1
+32 3
+denis
+1
+32 7
+saint
+1
+32 10
+enceinte
+1
+32 5
+établissement
+1
+31 3
+implantation
+1
+31 3
+également
+1
+31 3
+delcourt
+1
+31 3
+guy
+1
+31 3
+hadid
+1
+31 3
+zaha
+1
+31 3
+architecture
+1
+31 3
+voix
+1
+31 3
+président
+1
+31 4
+musée
+1
+31 4
+sanaa
+1
+31 4
+projet
+1
+31 4
+calais
+1
+31 3
+nord
+1
+31 3
+région
+1
+31 8
+louvre
+1
+31 9
+lens
+1
+31 10
+entraîneur
+1
+30 4
+imposé
+1
+30 3
+but
+1
+30 3
+journée
+1
+30 4
+coupet
+1
+30 3
+grégory
+1
+30 3
+tête
+1
+30 5
+rigaudeau
+1
+29 3
+lituaniens
+1
+29 3
+quart
+1
+29 3
+défense
+1
+29 3
+réussi
+1
+29 3
+ball
+1
+29 3
+demi
+1
+29 4
+lituanie
+1
+29 4
+bleus
+1
+29 3
+matches
+2
+32 5
+28 7
+télévision
+1
+28 3
+débat
+1
+28 3
+chelsea
+1
+28 3
+fréquentation
+1
+28 5
+league
+1
+28 5
+grands
+1
+28 3
+britannique
+1
+28 6
+stades
+1
+28 6
+supporteurs
+1
+28 4
+clubs
+2
+32 5
+28 5
+essai
+1
+27 3
+doses
+1
+27 4
+recherche
+1
+27 4
+pasteur
+1
+27 4
+sanofi
+1
+27 5
+contrat
+1
+27 3
+sanitaires
+1
+27 3
+lancé
+1
+27 3
+virus
+1
+27 12
+firmes
+1
+27 4
+conférence
+1
+27 3
+responsables
+1
+27 3
+vaccins
+1
+27 4
+production
+1
+27 4
+passé
+1
+27 3
+contre
+1
+27 9
+malte
+1
+27 4
+vaccin
+1
+27 7
+malgré
+1
+26 3
+études
+1
+26 3
+étais
+1
+26 5
+père
+1
+26 4
+sébastien
+1
+26 3
+chantal
+1
+26 4
+dessus
+1
+26 3
+agriculteurs
+1
+26 5
+champs
+1
+26 4
+volontaires
+1
+26 3
+nonette
+1
+26 3
+agricole
+1
+26 5
+temps
+1
+26 3
+champ
+1
+26 3
+gens
+1
+26 3
+exploitation
+1
+26 5
+peu
+2
+28 3
+26 3
+faucheurs
+1
+26 4
+ogm
+1
+26 7
+indienne
+1
+25 3
+comunidade
+1
+25 3
+dança
+1
+25 3
+bois
+1
+25 3
+enfants
+1
+25 3
+vincennes
+1
+25 3
+bertazzo
+1
+25 4
+ivaldo
+1
+25 4
+brésilien
+1
+25 3
+chorégraphe
+1
+25 3
+cartoucherie
+1
+25 4
+paulo
+1
+25 7
+sao
+1
+25 7
+michel
+2
+26 3
+23 4
+patrick
+1
+23 3
+déjà
+1
+23 3
+itokawa
+1
+23 7
+kilomètres
+1
+23 4
+fois
+1
+23 3
+arracher
+1
+23 3
+doit
+1
+23 3
+robot
+1
+23 4
+vers
+1
+23 3
+projectile
+1
+23 3
+plusieurs
+2
+27 4
+23 3
+vont
+1
+23 3
+corps
+1
+23 3
+américaine
+1
+23 3
+surface
+1
+23 5
+hayabusa
+1
+23 6
+jaxa
+1
+23 3
+entre
+3
+31 3
+28 5
+23 3
+autour
+1
+23 3
+japonais
+2
+31 4
+23 5
+exploration
+1
+23 4
+astéroïde
+1
+23 5
+échantillons
+1
+23 5
+ramener
+1
+23 3
+matière
+2
+23 3
+22 3
+millions
+2
+27 5
+22 3
+galaxie
+1
+22 5
+astronomes
+1
+22 4
+quasar
+1
+22 7
+message
+1
+21 3
+sport
+1
+21 3
+rugby
+2
+32 8
+21 3
+nba
+1
+21 3
+médias
+1
+21 3
+faute
+1
+21 3
+français
+3
+32 8
+29 3
+21 3
+dire
+1
+21 3
+depuis
+3
+32 5
+23 3
+21 3
+six
+1
+21 3
+sélectionneur
+1
+21 4
+basket
+2
+29 4
+21 9
+veut
+1
+21 3
+pourtant
+1
+20 3
+choses
+1
+20 3
+united
+1
+20 3
+manchester
+1
+20 3
+thoune
+1
+20 3
+arsenal
+2
+28 3
+20 4
+groupe
+1
+20 7
+buts
+1
+20 5
+turin
+1
+20 4
+juventus
+1
+20 4
+bruges
+1
+20 3
+puel
+1
+20 4
+claude
+1
+20 4
+champions
+2
+32 6
+20 3
+ligue
+2
+32 7
+20 4
+mercredi
+1
+20 4
+benfica
+1
+20 4
+secondes
+1
+20 3
+lille
+2
+32 14
+20 6
+comédie
+1
+19 3
+dernier
+1
+19 3
+scène
+1
+19 4
+rko
+1
+19 4
+fiction
+1
+19 3
+science
+1
+19 3
+succès
+1
+19 7
+bonheur
+1
+19 3
+mélodie
+1
+19 3
+julie
+1
+19 3
+ryan
+1
+19 4
+né
+1
+19 3
+films
+1
+19 4
+film
+1
+19 14
+welles
+1
+19 4
+monteur
+1
+19 3
+story
+1
+19 5
+side
+1
+19 5
+west
+1
+19 5
+réalisateur
+1
+19 4
+wise
+1
+19 13
+robert
+1
+19 15
+représente
+2
+18 3
+17 3
+tonne
+2
+18 4
+17 4
+envisagés
+2
+18 3
+17 3
+procédés
+2
+18 3
+17 3
+émissions
+2
+18 3
+17 3
+tonnes
+2
+18 4
+17 4
+milliards
+2
+18 4
+17 4
+ifp
+2
+18 3
+17 3
+encore
+3
+23 3
+18 3
+17 3
+coût
+2
+18 4
+17 4
+technologies
+2
+18 3
+17 3
+indique
+2
+18 3
+17 3
+stockage
+2
+18 5
+17 5
+capture
+2
+18 6
+17 6
+climat
+2
+18 3
+17 3
+charbon
+2
+18 4
+17 4
+pétrole
+2
+18 3
+17 3
+devrait
+2
+18 4
+17 4
+énergie
+2
+18 3
+17 3
+géologiques
+2
+18 4
+17 4
+effet
+2
+18 4
+17 4
+gaz
+2
+18 6
+17 6
+climatique
+2
+18 3
+17 3
+pays
+2
+27 3
+16 8
+risque
+1
+16 3
+responsable
+1
+16 3
+stohr
+1
+16 5
+docteur
+2
+27 3
+16 5
+pandémie
+2
+27 5
+16 4
+plans
+1
+16 4
+oms
+2
+27 6
+16 4
+aviaire
+2
+27 4
+16 3
+grippe
+2
+27 5
+16 7
+stade
+3
+32 25
+20 4
+15 3
+lyon
+2
+30 3
+15 4
+serait
+1
+15 3
+essien
+1
+15 4
+michael
+1
+15 5
+communication
+1
+15 5
+faire
+1
+15 3
+terrain
+1
+15 3
+dimension
+1
+15 3
+joueurs
+2
+21 5
+15 3
+atteindre
+1
+15 3
+notre
+2
+21 3
+15 3
+image
+1
+15 4
+football
+3
+32 5
+28 12
+15 5
+club
+2
+32 8
+15 9
+madrid
+1
+15 4
+real
+1
+15 4
+exil
+1
+14 3
+chanson
+1
+14 4
+carnatique
+1
+14 4
+chanteuse
+1
+14 4
+crocodiles
+1
+14 5
+for
+1
+14 5
+music
+1
+14 5
+mills
+1
+14 6
+sam
+1
+14 4
+tamoule
+1
+14 5
+musicale
+2
+19 3
+14 3
+culture
+1
+14 5
+contradiction
+1
+14 3
+raman
+1
+14 10
+susheela
+1
+14 10
+gardiner
+1
+13 3
+eliot
+1
+13 3
+john
+1
+13 3
+direction
+1
+13 3
+toujours
+2
+26 4
+13 3
+weber
+1
+13 3
+oberon
+1
+13 7
+musique
+3
+25 3
+14 3
+13 3
+jeune
+1
+12 3
+romans
+1
+12 3
+tel
+1
+12 3
+automne
+1
+12 3
+livre
+1
+12 5
+coeur
+1
+12 3
+propose
+1
+12 3
+avons
+3
+21 3
+20 3
+12 4
+librairie
+1
+12 10
+sauramps
+1
+12 6
+montpellier
+1
+12 5
+rentrée
+1
+12 7
+titres
+1
+12 6
+nouveaux
+1
+12 3
+homme
+2
+27 3
+12 4
+littérature
+1
+12 4
+pdg
+1
+12 3
+libraire
+1
+12 3
+sevestre
+1
+12 10
+marie
+1
+12 11
+jean
+2
+26 3
+12 10
+tournois
+1
+11 3
+wimbledon
+1
+11 3
+semble
+1
+11 3
+set
+1
+11 4
+manche
+1
+11 4
+jeu
+2
+28 5
+11 4
+service
+1
+11 5
+début
+2
+26 5
+11 4
+finales
+1
+11 4
+carrière
+1
+11 3
+series
+1
+11 3
+open
+1
+11 6
+match
+5
+32 5
+29 3
+28 4
+20 3
+11 6
+tout
+4
+28 3
+23 4
+15 3
+11 3
+pendant
+2
+26 3
+11 3
+troisième
+2
+30 3
+11 3
+garros
+1
+11 4
+roland
+1
+11 4
+première
+2
+33 4
+11 3
+finale
+2
+29 4
+11 6
+sets
+1
+11 3
+premier
+4
+32 3
+28 4
+27 3
+11 5
+gagné
+1
+11 3
+ans
+6
+34 5
+33 4
+21 3
+19 4
+12 3
+11 6
+mary
+1
+11 3
+clijsters
+1
+11 4
+kim
+1
+11 4
+chelem
+1
+11 8
+tournoi
+1
+11 8
+remporter
+1
+11 4
+andre
+1
+11 8
+lui
+4
+33 6
+23 7
+19 6
+11 9
+américain
+1
+11 6
+année
+1
+11 4
+deuxième
+1
+11 3
+mondial
+1
+11 5
+suisse
+1
+11 3
+federer
+1
+11 11
+roger
+1
+11 10
+joueur
+1
+11 4
+face
+2
+20 3
+11 5
+agassi
+1
+11 10
+michoud
+1
+10 3
+spatial
+1
+10 4
+centre
+2
+22 3
+10 4
+iss
+1
+10 3
+partenaires
+1
+10 3
+américains
+1
+10 3
+peut
+5
+33 3
+23 3
+22 3
+15 3
+10 3
+vols
+1
+10 4
+discovery
+1
+10 3
+mars
+1
+10 4
+nasa
+1
+10 6
+spatiale
+2
+23 4
+10 3
+navette
+1
+10 5
+katrina
+1
+10 4
+cyclone
+1
+10 3
+équipe
+5
+28 3
+21 9
+20 4
+15 3
+9 3
+angleterre
+1
+9 5
+cricket
+1
+9 3
+particules
+2
+23 3
+8 3
+poussière
+1
+8 3
+selon
+3
+32 3
+28 4
+8 3
+hearn
+1
+8 3
+loin
+1
+8 3
+comètes
+2
+23 3
+8 4
+pourrait
+1
+8 3
+terre
+2
+23 8
+8 3
+état
+1
+8 3
+impacteur
+1
+8 3
+espace
+1
+8 4
+était
+5
+33 6
+30 3
+23 3
+10 3
+8 3
+instruments
+1
+8 3
+lors
+4
+30 3
+28 3
+11 3
+8 4
+juillet
+2
+23 3
+8 3
+sonde
+2
+23 9
+8 6
+boulet
+1
+8 3
+collision
+2
+23 3
+8 4
+tempel
+1
+8 8
+violence
+1
+8 4
+comète
+2
+23 4
+8 11
+impact
+2
+23 3
+8 8
+deep
+1
+8 5
+mission
+2
+23 6
+8 5
+quand
+3
+26 3
+21 3
+7 3
+portugal
+1
+7 3
+trois
+5
+32 6
+18 3
+17 3
+11 3
+7 3
+années
+1
+7 3
+alfredo
+1
+7 3
+rodrigues
+1
+7 3
+amalia
+1
+7 5
+camané
+1
+7 3
+lisbonne
+2
+20 3
+7 3
+france
+6
+34 3
+32 16
+29 4
+28 3
+21 8
+7 3
+ile
+2
+34 3
+7 3
+portugais
+1
+7 3
+ouvert
+1
+7 3
+fado
+1
+7 28
+carmo
+1
+7 6
+carlos
+1
+7 5
+illinoise
+1
+5 3
+the
+1
+5 8
+feel
+1
+5 4
+come
+1
+5 3
+album
+1
+5 3
+oeuvre
+1
+5 3
+disque
+1
+5 4
+stevens
+1
+5 5
+sufjan
+1
+5 5
+illinois
+1
+5 4
+rock
+1
+5 3
+comme
+11
+31 3
+28 3
+26 3
+23 3
+22 9
+19 3
+18 3
+17 3
+7 3
+5 3
+4 3
+reportage
+1
+4 3
+festival
+2
+7 3
+4 4
+visa
+1
+4 6
+deux
+6
+31 3
+26 3
+23 4
+19 4
+11 5
+3 4
+même
+7
+28 4
+26 6
+19 3
+18 4
+17 4
+10 4
+3 4
+dont
+3
+31 4
+23 3
+3 6
+mérite
+1
+3 3
+podium
+1
+3 5
+dernières
+1
+3 3
+seul
+1
+3 3
+moins
+2
+28 4
+3 4
+pilote
+1
+3 4
+points
+3
+30 3
+29 6
+3 9
+course
+1
+3 6
+ferrari
+1
+3 5
+bar
+1
+3 3
+gbr
+1
+3 3
+williams
+1
+3 4
+bré
+1
+3 3
+all
+1
+3 5
+schumacher
+1
+3 4
+toyota
+1
+3 6
+rنikkِnen
+1
+3 7
+kimi
+1
+3 7
+ita
+1
+3 4
+min
+1
+3 6
+col
+1
+3 3
+position
+1
+3 3
+saison
+2
+28 12
+3 7
+fin
+2
+10 4
+3 5
+épreuves
+1
+3 4
+mais
+14
+32 5
+31 3
+30 6
+29 3
+26 7
+23 3
+20 4
+18 5
+17 5
+15 7
+12 3
+11 4
+10 3
+3 3
+championnat
+4
+32 4
+28 4
+21 4
+3 6
+fisichella
+1
+3 5
+giancarlo
+1
+3 5
+alonso
+1
+3 6
+fernando
+1
+3 6
+septembre
+6
+32 4
+31 3
+28 3
+19 3
+4 3
+3 3
+issue
+1
+3 3
+constructeurs
+1
+3 3
+pilotes
+1
+3 7
+monde
+3
+33 3
+32 4
+3 7
+leader
+1
+3 3
+place
+2
+30 3
+3 4
+renault
+1
+3 11
+monza
+1
+3 5
+circuit
+1
+3 4
+sur
+24
+34 4
+33 7
+32 3
+31 3
+28 8
+27 5
+26 5
+25 5
+23 15
+21 3
+19 3
+18 6
+17 6
+15 6
+14 4
+12 5
+11 7
+10 5
+9 5
+8 12
+7 3
+5 3
+4 9
+3 12
+mercedes
+1
+3 5
+mclaren
+1
+3 12
+victoire
+3
+30 3
+11 4
+3 3
+italie
+1
+3 4
+prix
+3
+28 7
+4 4
+3 6
+grand
+3
+15 4
+11 8
+3 7
+montoya
+1
+3 6
+pablo
+1
+3 6
+juan
+1
+3 6
+colombien
+1
+3 3
+beau
+1
+2 3
+fait
+6
+26 5
+23 3
+21 6
+20 3
+12 3
+2 3
+hommes
+1
+2 3
+femmes
+2
+7 3
+2 3
+mot
+1
+2 4
+expressions
+1
+2 3
+question
+2
+28 3
+2 3
+étude
+1
+2 5
+mots
+1
+2 3
+protéines
+1
+1 3
+thomas
+1
+1 3
+frédéric
+1
+1 3
+nématomorphes
+1
+1 3
+hôte
+1
+1 4
+son
+16
+33 5
+32 4
+31 5
+30 5
+28 3
+26 6
+25 4
+23 7
+19 11
+12 9
+11 12
+10 3
+5 3
+4 4
+3 7
+1 4
+parasite
+1
+1 3
+comportement
+1
+1 4
+suicide
+1
+1 3
+pousser
+1
+1 3
